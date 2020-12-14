@@ -22,6 +22,4 @@ public class Result<V> {
         this.index = index;
         this.isExit=isExit;
     }
-
-
 }
